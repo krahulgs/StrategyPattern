@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7PZzL2YyU+tCLzu1N3o3g5zAcX864MJM1LyCdnpsr2ElvHHCKLt1tJ17vT/SPQra584l/yzNGMkEJxbsxmekw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pranjay\\source\\repos\\Design Pattern\\Strategy\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pranjay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
