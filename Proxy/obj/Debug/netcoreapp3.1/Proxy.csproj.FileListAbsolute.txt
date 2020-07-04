@@ -1,0 +1,13 @@
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\Pranjay\source\repos\Design Pattern\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
